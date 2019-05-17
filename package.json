@@ -1,0 +1,26 @@
+{
+  "name": "gamut",
+  "version": "1.0.0",
+  "description": "A project to visualise 3D colour gamuts in the browser",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "author": "Euan Smith <euan1971@yahoo.co.uk>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "convex-hull": "^1.0.3",
+    "d3-3d": "0.0.9",
+    "reify": "^0.19.1",
+    "rollup": "^1.12.1",
+    "rollup-plugin-babel": "^4.3.2",
+    "rollup-plugin-commonjs": "^10.0.0",
+    "rollup-plugin-copy": "^2.0.1",
+    "rollup-plugin-json": "^4.0.0",
+    "rollup-plugin-node-resolve": "^5.0.0",
+    "rollup-plugin-uglify": "^6.0.2",
+    "rollup-plugin-uglify-es": "0.0.1",
+    "t3-boilerplate": "^0.2.7"
+  }
+}
