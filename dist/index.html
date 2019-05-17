@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Gamut Visualisation</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r73/three.min.js"></script>
+  <link rel="stylesheet" href="main.css">
+</head>
+<body>
+  <div class="header">
+    <div class="title">CIELab 3D gamut visualisation and volume calculation</div>
+    <div class="icon" id="upload">
+      <img src="upload.svg">
+      <div class="menu hidden" id="uploadMenu">
+        <!--<div class="back"></div>-->
+        <ul>
+          <li id="loadTest">Test Data</li>
+          <li id="loadRef">Reference Data</li>
+        </ul>
+      </div>
+    </div>
+    <div class="icon" id="help">
+      <img src="help.svg">
+    </div>
+  </div>
+  <canvas id="canvas"></canvas>
+  <input type="file" style="display:none" id="file">
+</body>
+<script src="main.js"></script>
+</html>
