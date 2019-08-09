@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4f18b25-25d8-41a3-b27d-695ada1fb451" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IEC_method/CIELabVol_subd.m" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/IEC_method/GamutSurfaceGrid.m" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/IEC_method/Gamut_Volume_D50_V3.m" beforeDir="false" />
@@ -32,7 +32,6 @@
       <change beforePath="$PROJECT_DIR$/IEC_method/tess_meas_D50.m" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/IEC_method/tess_orig.m" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/IEC_method/vol_lum.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matlab.zip" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -112,7 +111,7 @@
       <workItem from="1565020723326" duration="1702000" />
       <workItem from="1565085370920" duration="3027000" />
       <workItem from="1565176724821" duration="637000" />
-      <workItem from="1565367180577" duration="268000" />
+      <workItem from="1565367180577" duration="397000" />
     </task>
     <servers />
   </component>
